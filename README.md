@@ -37,7 +37,7 @@
 ### 📂 Projets en vedette
 
 #### 🔧 [holbertonschool-printf](https://github.com/ilmi-veliu/holbertonschool-printf)
-> Reproduction de la fonction `printf` de la libc en C. Gestion du formattage, buffers, et conversions `%d`, `%s`, etc.
+> Reproduction de la fonction `printf` de la librairie en C. Gestion du formattage, buffers, et conversions `%d`, `%s`, etc.
 
 #### 💻 [holbertonschool-simple_shell](https://github.com/tmlgde/holbertonschool-simple_shell)
 > Mini shell POSIX codé en C. Supporte les commandes simples, PATH, gestion des erreurs, fork/exec/wait, et plus encore.
