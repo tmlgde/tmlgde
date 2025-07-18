@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=tmlgde%20%F0%9F%91%BD%20Dev%20in%20Progress...&fontSize=30&fontAlignY=35" alt="banner" />
 </p>
 
-<h1 align="center">👋 Bienvenue dans mon profil GitHub!</h1>
+<h1 align="center">👋 Bienvenue sur mon profil GitHub!</h1>
 
 <!-- BIG centered GIF -->
 <p align="center">
